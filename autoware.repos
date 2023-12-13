@@ -69,7 +69,7 @@ repositories:
   # sensor_component
   sensor_component/external/sensor_component_description:
     type: git
-    url: https://github.com/kobayu858/sensor_component_description.git
+    url: https://github.com/tier4/sensor_component_description
     version: main
   sensor_component/external/tamagawa_imu_driver:
     type: git
@@ -77,7 +77,7 @@ repositories:
     version: ros2
   sensor_component/external/nebula:
     type: git
-    url: https://github.com/tier4/nebula.git
+    url: https://github.com/kobayu858/nebula.git
     version: main
   sensor_component/external/transport_drivers:
     type: git
